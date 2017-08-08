@@ -21,3 +21,20 @@ can view the list of all registered customer and orders. Admin can also add,
 search, update and delete product from the database. Customer on the other hand 
 can update their details or profile and buy a product. The bought product will 
 be inserted in the order tables so that the admin can view their orders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
